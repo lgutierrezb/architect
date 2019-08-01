@@ -113,8 +113,8 @@
             href="AssociationRelationship_b22db387-f903-4e6d-9500-8a0eb16e8d4d.xml#b22db387-f903-4e6d-9500-8a0eb16e8d4d"/>
       </sourceConnections>
       <bounds
-          x="504"
-          y="261"
+          x="493"
+          y="288"
           width="132"
           height="97"/>
       <children
@@ -139,8 +139,8 @@
         id="c3fb5242-42c9-4631-9ad3-d62f27b5a9b5"
         targetConnections="2b8ce95b-4581-4171-b95f-5b211477f0a8">
       <bounds
-          x="624"
-          y="36"
+          x="612"
+          y="48"
           width="157"
           height="109"/>
       <children
@@ -194,9 +194,9 @@
             href="AssociationRelationship_57888127-5d48-4848-be75-7f95ac34ebd6.xml#57888127-5d48-4848-be75-7f95ac34ebd6"/>
       </sourceConnections>
       <bounds
-          x="312"
-          y="180"
-          width="84"
+          x="252"
+          y="342"
+          width="115"
           height="49"/>
       <archimateElement
           xsi:type="archimate:Artifact"
@@ -228,8 +228,8 @@
         id="020cb509-d0c9-4126-9674-a9a8841da955"
         targetConnections="d13b07c7-879c-436c-ad94-f6d44fc72f0f">
       <bounds
-          x="696"
-          y="156"
+          x="845"
+          y="60"
           width="97"
           height="37"/>
       <archimateElement
@@ -250,9 +250,9 @@
             href="AssociationRelationship_33158e28-a19f-41d4-8b01-8821abb0f7b7.xml#33158e28-a19f-41d4-8b01-8821abb0f7b7"/>
       </sourceConnections>
       <bounds
-          x="180"
-          y="207"
-          width="120"
+          x="133"
+          y="252"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Path"
@@ -272,8 +272,8 @@
             href="AssociationRelationship_8c7c9f2f-dc87-4061-9386-6eaf5ad1b08a.xml#8c7c9f2f-dc87-4061-9386-6eaf5ad1b08a"/>
       </sourceConnections>
       <bounds
-          x="360"
-          y="252"
+          x="325"
+          y="264"
           width="120"
           height="55"/>
       <archimateElement
@@ -307,8 +307,8 @@
         id="97773147-2be0-4647-94e3-de93135c55e0"
         targetConnections="6978e2e5-7d48-4140-b036-e1d6ed1ad83a">
       <bounds
-          x="816"
-          y="144"
+          x="852"
+          y="138"
           width="156"
           height="121"/>
       <children
@@ -341,8 +341,8 @@
         id="72244cd1-f994-4386-bcbb-6f469e059fa8"
         targetConnections="d8836f94-0135-4d42-b1d7-d8e37813963e">
       <bounds
-          x="816"
-          y="288"
+          x="864"
+          y="318"
           width="120"
           height="37"/>
       <archimateElement
@@ -363,8 +363,8 @@
             href="AssociationRelationship_3cd411e4-0445-4810-aafb-a1997c9a8440.xml#3cd411e4-0445-4810-aafb-a1997c9a8440"/>
       </sourceConnections>
       <bounds
-          x="510"
-          y="171"
+          x="505"
+          y="198"
           width="120"
           height="55"/>
       <archimateElement
