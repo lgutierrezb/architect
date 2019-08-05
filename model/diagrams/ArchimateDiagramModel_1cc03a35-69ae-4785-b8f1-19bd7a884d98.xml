@@ -372,17 +372,6 @@
           href="Path_aa5ee16b-6097-4227-88ff-ca0b9f1e18ce.xml#aa5ee16b-6097-4227-88ff-ca0b9f1e18ce"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="d6350fb9-534f-44d6-9ae7-e896b90f5c94"
-        textAlignment="1"
-        content="Infraestructura tecnica">
-      <bounds
-          x="12"
-          y="342"
-          width="151"
-          height="49"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3feea174-8d8b-4739-a2cc-dfd7e4427926"
         targetConnections="13ecf9de-03f9-4e00-b9ee-9d97c42f6f5f 59f7a8ef-e086-4015-ad68-1c7ebc47fd8c">
@@ -735,17 +724,6 @@
           href="TechnologyFunction_3139736d-4072-46dc-87ff-db5dfe23a7cb.xml#3139736d-4072-46dc-87ff-db5dfe23a7cb"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="946ecfac-d59f-47c1-9587-17d7fc66ccee"
-        textAlignment="1"
-        content="Servicios">
-      <bounds
-          x="492"
-          y="180"
-          width="151"
-          height="49"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e86ceebf-effc-41a3-996f-98e8808e6d35"
         targetConnections="81d5e8f4-d6ed-4bf2-adb6-4353e0980517">
@@ -946,17 +924,6 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_1cb08718-9f02-4937-a3e3-ee92faef8918.xml#1cb08718-9f02-4937-a3e3-ee92faef8918"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="0fd90d14-d3e0-42e2-a728-5b61eb2c5afc"
-        textAlignment="1"
-        content="Componentes&#xD;&#xA;">
-      <bounds
-          x="1188"
-          y="36"
-          width="151"
-          height="49"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -1094,17 +1061,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_9e9e4ffd-f899-490d-abc6-23570a5ff261.xml#9e9e4ffd-f899-490d-abc6-23570a5ff261"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="0e9829ea-11d2-4d11-a82b-346dbe91a6f7"
-        textAlignment="1"
-        content="Funciones">
-      <bounds
-          x="1188"
-          y="29"
-          width="151"
-          height="49"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
