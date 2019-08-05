@@ -592,23 +592,23 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="94bc7b69-9050-427b-9448-9173c84fde03"
-      name="Funciones de negocio y funciones de servicios"
+      name="Componentes de aplicación"
       textAlignment="1">
     <bounds
         x="58"
         y="48"
         width="1213"
         height="193"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="51738668-b9cc-46ab-a990-58cd10a7fe79"
-        textAlignment="1"
-        content="Informacion&#xD;&#xA;Productos y Servicios&#xD;&#xA;Procesos&#xD;&#xA;Funciones de negocio&#xD;&#xA;Organizacion">
-      <bounds
-          x="12"
-          y="84"
-          width="181"
-          height="92"/>
-    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3702f3a3-939d-4368-b3be-26e74f1fa1e3"
+      name="Servicios y funciones"
+      textAlignment="1">
+    <bounds
+        x="58"
+        y="-156"
+        width="1213"
+        height="193"/>
   </children>
 </archimate:ArchimateDiagramModel>
