@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Material View"
     id="1cc03a35-69ae-4785-b8f1-19bd7a884d98">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -938,7 +938,7 @@
             href="AssociationRelationship_76df88cd-1861-405b-b693-a704a61147ac.xml#76df88cd-1861-405b-b693-a704a61147ac"/>
       </sourceConnections>
       <bounds
-          x="648"
+          x="612"
           y="60"
           width="120"
           height="55"/>
