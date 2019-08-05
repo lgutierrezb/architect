@@ -841,8 +841,8 @@
       textAlignment="1">
     <bounds
         x="58"
-        y="48"
-        width="1213"
+        y="60"
+        width="1359"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -952,8 +952,8 @@
         textAlignment="1"
         content="Componentes&#xD;&#xA;">
       <bounds
-          x="24"
-          y="126"
+          x="1188"
+          y="36"
           width="151"
           height="49"/>
     </children>
@@ -966,8 +966,8 @@
     <bounds
         x="58"
         y="-156"
-        width="1213"
-        height="193"/>
+        width="1347"
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f254647d-6da8-45a2-b3f4-da66fcc220e7"
@@ -1101,8 +1101,8 @@
         textAlignment="1"
         content="Funciones">
       <bounds
-          x="1044"
-          y="132"
+          x="1188"
+          y="29"
           width="151"
           height="49"/>
     </children>
