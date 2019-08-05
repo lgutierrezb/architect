@@ -938,7 +938,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f254647d-6da8-45a2-b3f4-da66fcc220e7"
-        targetConnections="5eb25e1b-7abc-4f0b-821a-14dd3f357cc2 8e315572-0634-42e9-8b49-8081612c5d23 e2ba95cf-f7a5-4763-af04-ee6d47b1e779 e20740cd-5529-489f-a612-977432a31fb7 feb58ce2-8cc4-490c-a49a-a656512fab75">
+        targetConnections="5eb25e1b-7abc-4f0b-821a-14dd3f357cc2 e2ba95cf-f7a5-4763-af04-ee6d47b1e779 e20740cd-5529-489f-a612-977432a31fb7 feb58ce2-8cc4-490c-a49a-a656512fab75">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="61e2fc09-edf1-4a03-ab34-02b5cdcf287b"
@@ -947,6 +947,15 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_cb32bd80-dc78-4b35-884c-fa53715b3084.xml#cb32bd80-dc78-4b35-884c-fa53715b3084"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2e8db9be-6ea2-4a1a-8401-e2fa8a8d5072"
+          source="f254647d-6da8-45a2-b3f4-da66fcc220e7"
+          target="08ed2d8b-35c6-433c-8241-f0d0ba53972b">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_ae4db5a4-593a-4dd1-90f5-be9879fbe093.xml#ae4db5a4-593a-4dd1-90f5-be9879fbe093"/>
       </sourceConnections>
       <bounds
           x="840"
@@ -1022,16 +1031,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="08ed2d8b-35c6-433c-8241-f0d0ba53972b">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="8e315572-0634-42e9-8b49-8081612c5d23"
-          source="08ed2d8b-35c6-433c-8241-f0d0ba53972b"
-          target="f254647d-6da8-45a2-b3f4-da66fcc220e7">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_89725cbd-b857-4349-8e64-cf7ed86a81df.xml#89725cbd-b857-4349-8e64-cf7ed86a81df"/>
-      </sourceConnections>
+        id="08ed2d8b-35c6-433c-8241-f0d0ba53972b"
+        targetConnections="2e8db9be-6ea2-4a1a-8401-e2fa8a8d5072">
       <bounds
           x="12"
           y="120"
